@@ -2,7 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoon8997&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moon8997&theme=cobalt&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moon8997&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdansrlf)](https://solved.ac/tjdansrlf/)
 # 💪Skills
 ### Platforms & Languages
